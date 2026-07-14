@@ -1,0 +1,15 @@
+python-docx
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-core
+chromadb
+streamlit
+ragas
+datasets
+python-dotenv
+deepeval
+langchain-mistralai
+langchain-google-genai
+sentence-transformers
+streamlit-js-eval
